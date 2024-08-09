@@ -1,6 +1,6 @@
 
 <div>
-  <h4>## Olá eu sou o Roger Allan!</h4>
+ <strong style= "font-size:5"> ##Olá eu sou o Roger Allan, programador fullstack e analista de dados</strong>
 <div>
   <a href = "https://github.com/RogerAllan">
     <img height ="180em" src= "https://github-readme-stats.vercel.app/api?username=rogerallan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
@@ -22,9 +22,7 @@
   <img align="center" alt="Roger-Spring" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/scikitlearn/scikitlearn-original.svg" >
           
 </div>
-  
-  ![Snake animation](https://github.com/rogerallan/rogerallan/blob/output/github-contribution-grid-snake.svg)
-  ##
+
  
 <div> 
      <a href="https://www.linkedin.com/in/roger-allan/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
