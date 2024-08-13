@@ -1,11 +1,6 @@
 
 <div>
-<!--  <strong style= "font-size:5"> ##Olá eu sou o Roger Allan, programador fullstack e analista de dados</strong>
-<div>
-  <a href = "https://github.com/RogerAllan">
-    <img height ="180em" src= "https://github-readme-stats.vercel.app/api?username=rogerallan&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-    <img height ="180em" src= "https://github-readme-stats.vercel.app/api/top-langs/?username=rogerallan&layout-compact&langs_count=16&theme=dracula"/>
-</div> -->
+  <strong style= "font-size:5"> ##Olá eu sou o Roger Allan, programador fullstack e analista de dados</strong>
 
 
 <div style="display: inline_block"><br>
